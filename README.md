@@ -1,3 +1,4 @@
+
 A digital marketing agency by the name of "Horiseon" has contracted me to refactor their code in order to ensure their codebase meets accessibility standards and is optimized for search engines. The new code needs to meet the following criteria: 
 
 GIVEN a webpage meets accessibility standards
@@ -12,6 +13,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/78604328/113487608-1e03e680-9487-11eb-8269-42cd7e543a18.png)
 
 
